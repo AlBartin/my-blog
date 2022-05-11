@@ -27,7 +27,7 @@ Let’s think of this in blocks of functions. What I mean is, look at your code 
 
 Here we’ve called this new function gradesIntegerArray and set the parameter as gradesLetterArray. Now how can we make this even drier? Within each boolean expression, we are assigning a new variable with the integer that we are then pushing into the new array that we’ve created. But if we are looping through the array, can we just remove the variable and push the integer itself. Let's also rename it to gradesIntegers.
 
-![Cleaner gradesIntegers](/my-blog/assets/image11.png)
+![Cleaner gradesIntegers](/my-blog/assets/image10.png)
 
 Great! Now let’s call this helper function within our main gpa function.
 
