@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Staying Fly on the Dry: The Case for Helper Functions"
+title:  "Staying Dry on the Fly: The Case for Helper Functions"
 date:   2022-05-11 07:58:36 -0700
 categories: jekyll update
 ---
