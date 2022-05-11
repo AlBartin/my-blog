@@ -22,7 +22,7 @@ title: Raging With The Machine
 email: alan.martnz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical Blog where I submit into the zeitgeist my findings while tinkering with programs.
-baseurl: "/raging-with-the-machine" # the subpath of your site, e.g. /blog
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://albartin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  AlBartin
