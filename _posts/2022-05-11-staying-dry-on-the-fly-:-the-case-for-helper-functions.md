@@ -5,7 +5,7 @@ date:   2022-05-11 07:58:36 -0700
 categories: jekyll update
 ---
 
-### “You have to literally read every line of code to understand what’s happening here." - Cohort Mate 
+### “You have to literally read every line of code to understand what’s happening here." - Cesar Tidrick 
 
 What is a Helper Function? A Helper Function is a function created in your code that you are able to call within other functions to perform tasks that are otherwise repetitive. These functions are helpful not only to ease up re-writing the same code multiple times, but to also help you as a programmer think about what you want your code to do in building blocks rather than breaking it down to individual steps per line. You can focus on the current function that you are working on without without worrying about the individual steps of the other function. This is another way of keeping your code legible, comprehensible, and DRY (Do Not Repeat Yourself).
 
