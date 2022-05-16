@@ -3,6 +3,7 @@ layout: post
 title:  "Staying Dry on the Fly: The Case for Helper Functions"
 date:   2022-05-11 07:58:36 -0700
 categories: jekyll update
+image: /assets/imageMatryoshka.png
 ---
 
 ### “You have to literally read every line of code to understand what’s happening here." - Cesar (fellow cohort)
