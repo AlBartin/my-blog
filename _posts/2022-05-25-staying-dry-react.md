@@ -16,7 +16,7 @@ So I created my React App in VS Code which renders the following:
 
 ![Original React App](/my-blog/assets/ReactApp.png)
 
-And I thought great, let's create some components. I created the following:
+And I thought great, let's create some components. I put together the following:
 
 ![Original GPA](/my-blog/assets/OriginalGPA.png)
 
@@ -25,7 +25,7 @@ And I thought great, let's create some components. I created the following:
 * StudentForm.js
 * Valedictorian.js
 
-Each will perform a different function for this app. So I began refactoring my original code and inserting it into these components, but I could not get my code to compile. I worked on this for hours and found myself in a similar situation as Charlie trying to talk about the mail before the sun set in Philadelphia.
+Each component will perform a different function for this app. So I began refactoring my original code and inserting it into these components, but I could not get my code to compile. I worked on this for hours and found myself in a similar situation as Charlie trying to talk about the mail before the sun set in Philadelphia.
 
 ![Crazy Charlie](/my-blog/assets/CrazyCharlie.gif)
 
