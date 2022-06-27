@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Going Postal With Postman"
-date:   2022-06-27 07:58:55 -0700
+date:   2022-06-27 07:58:55 -0800
 categories: jekyll update
 ---
 
@@ -76,4 +76,7 @@ You’ll see after hitting SEND that we receive empty { } as the response, indic
 
 ![Initial GET Request](/my-blog/assets/GoingPostal/SuccessfulDelete.png)
 
-Postman is a priceless tool when it comes to working with APIs and I highly recommend using it to test your data.
+Postman is a priceless tool when it comes to working with APIs and I highly recommend using it to test your data. Please check out the video below for a much more in-depth guide to Postman.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VywxIQ2ZXw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
